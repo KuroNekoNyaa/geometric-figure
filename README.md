@@ -4,3 +4,6 @@
 ### 用自定义的图片做边框
 效果图<br>
 ![preview](images/border-image.png)
+[戳我](https://github.com/KuroNekoNyaa/geometric-figure/blob/master/border-image.html)
+### 扇形
+![preview](images/border-image.png)
