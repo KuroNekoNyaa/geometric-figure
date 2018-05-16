@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        div input {
+            display: none;
+        }
+        div input + label {
+            background: url("images/checkbox1.png") left center no-repeat;
+            background-size: 20px 20px;
+            padding-left: 20px;
+        }
+        div input:checked + label {
+            background: url("images/checkbox2.png") left center no-repeat;
+            background-size: 20px 20px;
+            padding-left: 20px;
+            color: red;
+        }
+    </style>
+</head>
+<body>
+<div>
+    <input type="checkbox" id="haha">
+    <label for="haha">戳我</label>
+</div>
+</body>
+</html>
