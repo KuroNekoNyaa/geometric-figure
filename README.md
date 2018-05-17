@@ -14,7 +14,7 @@
 ![preview](images/form1.png) <br>
 点击后<br>
 ![preview](images/form2.png) <br>
-[戳我](https://github.com/KuroNekoNyaa/geometric-figure/blob/master/.html)<br>
+[戳我](https://github.com/KuroNekoNyaa/geometric-figure/blob/master/form.html)<br>
 原理：将原生的input设置为display：none，然后给label添加自己的背景
 ### 半圆
 ![preview](images/semi-circle.png) <br>
